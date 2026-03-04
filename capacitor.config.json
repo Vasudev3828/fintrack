@@ -1,0 +1,11 @@
+{
+  "appId": "com.fintrack.app",
+  "appName": "FinTrack",
+  "webDir": "dist",
+  "android": {
+    "buildOptions": {
+      "keystorePath": null,
+      "keystoreAlias": null
+    }
+  }
+}
